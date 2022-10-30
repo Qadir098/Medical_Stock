@@ -1,2 +1,2 @@
 # Medical_Stock
-This is Semester Project and also considered as first assignment(cha1)
+This is Semester Project and also considered as (cha1, chap2)
