@@ -2,6 +2,18 @@
 <project-private xmlns="http://www.netbeans.org/ns/project-private/1">
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
-        <group/>
+        <group>
+            <file>file:/C:/Users/zaland/Documents/NetBeansProjects/MedicineStock/src/UI/Admin/AddPharmacist.java</file>
+            <file>file:/C:/Users/zaland/Documents/NetBeansProjects/MedicineStock/src/UI/Admin/CommonHandler.java</file>
+            <file>file:/C:/Users/zaland/Documents/NetBeansProjects/MedicineStock/src/model/dto/PharmacistDTO.java</file>
+            <file>file:/C:/Users/zaland/Documents/NetBeansProjects/MedicineStock/src/dal/RecordsMapper.java</file>
+            <file>file:/C:/Users/zaland/Documents/NetBeansProjects/MedicineStock/src/model/MSController.java</file>
+            <file>file:/C:/Users/zaland/Documents/NetBeansProjects/MedicineStock/src/UI/Admin/Signup.java</file>
+            <file>file:/C:/Users/zaland/Documents/NetBeansProjects/MedicineStock/src/dal/DALManager.java</file>
+            <file>file:/C:/Users/zaland/Documents/NetBeansProjects/MedicineStock/src/UI/Admin/Login.java</file>
+            <file>file:/C:/Users/zaland/Documents/NetBeansProjects/MedicineStock/src/UI/Admin/MedicineStock.java</file>
+            <file>file:/C:/Users/zaland/Documents/NetBeansProjects/MedicineStock/src/dal/RecordsAdder.java</file>
+            <file>file:/C:/Users/zaland/Documents/NetBeansProjects/MedicineStock/src/UI/Admin/PharmacistInfo.java</file>
+        </group>
     </open-files>
 </project-private>
